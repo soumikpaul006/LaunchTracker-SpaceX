@@ -1,6 +1,6 @@
 # LaunchTracker SpaceX
 
-LaunchTracker SpaceX is a modern Android application that provides real-time tracking and detailed information about SpaceX launches. Built with Jetpack Compose and following clean architecture principles, the app offers a responsive and adaptive UI that works seamlessly across different device sizes and orientations.
+LaunchTracker SpaceX is a modern Android application that provides real-time tracking and detailed information about SpaceX launches. Built with Jetpack Compose and following MVVM architecture principles, the app offers a responsive and adaptive UI that works seamlessly across different device sizes and orientations.
 
 # Medium Device 
 
@@ -56,7 +56,7 @@ LaunchTracker SpaceX is a modern Android application that provides real-time tra
 ## Technical Stack
 
 - **UI Framework**: Jetpack Compose with Material 3 Design
-- **Architecture**: MVVM with Clean Architecture
+- **Architecture**: MVVM Architecture
 - **Dependency Injection**: Hilt
 - **Networking**: Retrofit with OkHttp
 - **Image Loading**: Coil
@@ -66,7 +66,7 @@ LaunchTracker SpaceX is a modern Android application that provides real-time tra
 
 ## Architecture
 
-The application follows clean architecture principles with clear separation of concerns:
+The application follows MVVM architecture principles with a clear separation of concerns:
 
 - **Model**: Contains data classes, repository implementations, and API services
 - **ViewModel**: Manages UI state and business logic
