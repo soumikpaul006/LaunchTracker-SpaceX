@@ -37,7 +37,7 @@ LaunchTracker SpaceX is a modern Android application that provides real-time tra
 	
 	Details screen portrait mode
  
- 	![image](https://github.com/user-attachments/assets/7f169ca0-d633-4034-be05-6f552238d1a5)
+ ![image](https://github.com/user-attachments/assets/7f169ca0-d633-4034-be05-6f552238d1a5)
 
  	Landscape mode
 
