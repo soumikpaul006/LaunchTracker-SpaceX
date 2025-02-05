@@ -2,6 +2,48 @@
 
 LaunchTracker SpaceX is a modern Android application that provides real-time tracking and detailed information about SpaceX launches. Built with Jetpack Compose and following clean architecture principles, the app offers a responsive and adaptive UI that works seamlessly across different device sizes and orientations.
 
+# Medium Device 
+
+	 portrait mode
+
+![image](https://github.com/user-attachments/assets/184ee832-9ebf-4cb5-8eb4-6e7064b703e1)
+
+	 Details Screen
+
+![image](https://github.com/user-attachments/assets/e43625df-672b-4138-aa1e-ebfcb22a38b5)
+
+	  Landscape mode
+   
+![image](https://github.com/user-attachments/assets/2fc76e80-3a1d-415c-8c17-4f0e1bf7e07a)
+
+
+# Small Device
+
+	portrait mode
+ 
+![image](https://github.com/user-attachments/assets/05bca074-90b4-4ef0-bbe1-23fc60896d19)
+
+	Details Screen
+ 
+![image](https://github.com/user-attachments/assets/c74cbdd8-fb1a-49a7-b9cd-68c9d4fd40b8)
+
+	Landscape Mode
+ 
+![image](https://github.com/user-attachments/assets/0941bb64-e825-471a-b448-6c52cf3308a6)
+
+
+# Large Device
+
+	
+	Details screen portrait mode
+ 
+ 	![image](https://github.com/user-attachments/assets/7f169ca0-d633-4034-be05-6f552238d1a5)
+
+ 	Landscape mode
+
+  ![image](https://github.com/user-attachments/assets/525d5dcf-e588-423c-84e3-07042179f0f1)
+
+
 ## Features
 
 - Real-time SpaceX launch data fetched from the SpaceX API
